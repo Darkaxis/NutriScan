@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "title": "NutriScan Pro",
+    "subtitle": "Packaged Food & Clinical Nutrition Intelligence",
+    "catalog": "Catalog",
+    "nutrition": "Nutrition",
+    "proAccess": "Pro Access",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "signOut": "Sign Out",
+    "demoUser": "Account",
+    "freeTier": "Free Plan",
+    "proTier": "Pro Active",
+    "upgradeBtn": "Upgrade to Pro",
+    "manageSub": "Manage Plan",
+    "toggleDevMode": "Account Tier"
+  },
+  "hero": {
+    "badge": "Global Food & Nutrition Intelligence Platform",
+    "title": "Understand what you eat,",
+    "titleHighlight": "in complete clarity.",
+    "description": "Explore ingredients, official Nutri-Scores, and nutritional breakdowns across millions of everyday foods. Transparent, independent, and completely uncluttered.",
+    "pureIngredients": "Pure ingredients",
+    "metricCatalogLabel": "Catalog",
+    "metricCatalogCount": "3,200,000+",
+    "metricCatalogDesc": "Packaged food products indexed",
+    "metricScoringLabel": "Scoring",
+    "metricScoringTitle": "Nutri-Score",
+    "metricScoringDesc": "Official European grades A through E",
+    "metricIntegrityLabel": "Integrity",
+    "metricIntegrityTitle": "100% Open",
+    "metricIntegrityDesc": "Community-driven, zero brand bias",
+    "metricLanguagesLabel": "Languages",
+    "metricLanguagesTitle": "4 Locales",
+    "metricLanguagesDesc": "English, French, German, and Dutch"
+  },
+  "collections": {
+    "tag": "Discover",
+    "title": "Popular Food Collections",
+    "subtitle": "Click any collection to instantly explore products and ingredients",
+    "explore": "Explore",
+    "c1": {
+      "label": "Dark Chocolate & Cocoa",
+      "category": "Confectionery"
+    },
+    "c2": {
+      "label": "Oat Milk & Plant-Based",
+      "category": "Dairy Alternatives"
+    },
+    "c3": {
+      "label": "Pasta & Whole Grains",
+      "category": "Grains & Cereals"
+    },
+    "c4": {
+      "label": "Hazelnut & Sweet Spreads",
+      "category": "Breakfast"
+    },
+    "c5": {
+      "label": "Artisan Cheeses",
+      "category": "Dairy & Cheese"
+    },
+    "c6": {
+      "label": "Nuts & Dried Fruits",
+      "category": "Snacks & Seeds"
+    }
+  },
+  "guestPaywall": {
+    "title": "Sign In to See All {count} Products",
+    "previewDesc": "You're viewing a free preview of 2 products for \"{query}\". Create a free account or sign in to browse all search results.",
+    "cta": "Sign In / Create Free Account",
+    "alreadyHaveAccount": "Already have an account? Sign In"
+  },
+  "search": {
+    "placeholder": "Search by product, brand, or barcode (e.g. Nutella)...",
+    "button": "Search",
+    "searching": "Searching database...",
+    "recentSearches": "Recent Searches",
+    "clearHistory": "Clear",
+    "noHistory": "No recent searches recorded yet",
+    "foundResults": "Found {count} food products for \"{query}\"",
+    "noResultsTitle": "No food products found",
+    "noResultsDesc": "Try checking for spelling errors, using a more general term (e.g. 'chocolate', 'yogurt'), or entering an exact barcode.",
+    "emptyStateTitle": "Ready to explore?",
+    "emptyStateDesc": "Type any food product or scan barcode to view brand, ingredients, and nutrition details.",
+    "popularSuggestions": "Popular suggestions"
+  },
+  "product": {
+    "unnamed": "Unnamed Product",
+    "unknownBrand": "Brand Unspecified",
+    "fallbackEn": "EN Fallback",
+    "fallbackEnTooltip": "Product information is shown in English because translations are not available for this language.",
+    "fallbackBadge": "{lang} Fallback",
+    "fallbackNotice": "Original packaging text is recorded in {lang}. Not yet translated to {currentLang}.",
+    "availableOnlyIn": "Only available in: {languages}",
+    "availableLanguages": "Available languages:",
+    "barcode": "Barcode",
+    "quantity": "Quantity",
+    "serving": "Serving Size",
+    "categories": "Categories",
+    "ingredients": "Ingredients",
+    "noIngredients": "No ingredients recorded for this product.",
+    "allergens": "Allergens",
+    "noAllergens": "No common allergens listed.",
+    "viewDetails": "View Details",
+    "nutriscore": "Nutri-Score",
+    "ecoscore": "Eco-Score",
+    "nova": "NOVA Group",
+    "novaDesc": {
+      "1": "Unprocessed or minimally processed",
+      "2": "Processed culinary ingredients",
+      "3": "Processed foods",
+      "4": "Ultra-processed food and drink products"
+    }
+  },
+  "nutrition": {
+    "title": "Nutritional Facts",
+    "per100g": "Per 100g / 100ml",
+    "perServing": "Per Serving",
+    "energy": "Energy",
+    "fat": "Total Fat",
+    "saturatedFat": "Saturated Fat",
+    "carbohydrates": "Carbohydrates",
+    "sugars": "Sugars",
+    "fiber": "Dietary Fiber",
+    "proteins": "Proteins",
+    "salt": "Salt",
+    "sodium": "Sodium",
+    "lockedTitle": "Unlock Clinical Macro Intelligence",
+    "lockedSubtitle": "Complete 10-point nutritional tables, macro distributions, and clinical diet data are available exclusively to NutriScan Pro subscribers.",
+    "unlockBenefit1": "Complete 10-point nutritional breakdown (calories, fats, sugars, fiber)",
+    "unlockBenefit2": "Nutri-Score & NOVA ultra-processing analysis",
+    "unlockBenefit3": "Highlighted allergens and dietary suitability",
+    "unlockCta": "Upgrade to Pro — $9.99/mo",
+    "processingCheckout": "Redirecting to secure Stripe Checkout..."
+  },
+  "subscription": {
+    "modalTitle": "Upgrade to NutriScan Pro",
+    "modalSubtitle": "Get unlimited access to detailed nutrition tables, health scores, and dietary indicators.",
+    "price": "$9.99",
+    "interval": "per month",
+    "cancelAnytime": "Cancel anytime in one click. Securely processed with 256-bit SSL encryption via Stripe.",
+    "checkoutBtn": "Proceed to Checkout",
+    "testCardNotice": "Secured by Stripe Bank-Grade Encryption.",
+    "successTitle": "Welcome to NutriScan Pro!",
+    "successSubtitle": "Your monthly subscription is active. All nutrition facts, health scores, and macro tables are unlocked.",
+    "backToSearch": "Explore Food Catalog",
+    "canceledTitle": "Checkout Canceled",
+    "canceledSubtitle": "No charges were made. You can upgrade whenever you are ready.",
+    "tryAgain": "Back to Search",
+    "cancelSubscription": "Cancel Subscription",
+    "cancelConfirm": "Are you sure you want to cancel your Pro subscription? You will lose access to detailed nutritional macro tables.",
+    "canceling": "Canceling subscription...",
+    "cancelSuccess": "Your subscription has been canceled.",
+    "keepSubscription": "Keep Subscription",
+    "confirmCancelBtn": "Yes, Cancel Pro"
+  },
+  "footer": {
+    "attribution": "Nutritional data syndicated from Open Food Facts collaborative database under Open Database License (ODbL).",
+    "testProject": "© 2026 NutriScan Pro Inc. All rights reserved."
+  }
+}
